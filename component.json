@@ -1,0 +1,10 @@
+{
+    "repos": "https://github.com/zhrren/fis-sui",
+    "version": "v0.5.4",
+    "description": "SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美 http://m.sui.taobao.org/components/",
+    "name": "fis-sui",
+    "main": "js/sm.js",
+    "dependencies": [
+        "fis-zepto@~1.1.4"
+    ]
+}
