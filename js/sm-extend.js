@@ -3380,3 +3380,5 @@ Framework7 Swiper Additions
     };
 
 }(Zepto);
+
+module.exports = Zepto;
